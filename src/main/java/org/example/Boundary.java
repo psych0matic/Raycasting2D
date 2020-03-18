@@ -4,9 +4,10 @@ import java.awt.*;
 import java.awt.geom.Line2D;
 
 public class Boundary {
-    private Point a,b;
-    public Boundary(int x1, int y1, int x2, int y2) {
-
+    public Vector2D a,b;
+    public Boundary(double x1, double y1, double x2, double y2) {
+        this.a = new Vector2D(x1,y1);
+        this.b = new Vector2D(x2,y2);
     }
     
     public void show(Graphics2D g2d) {

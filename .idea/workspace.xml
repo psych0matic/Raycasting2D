@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="710b3b82-e90f-463f-be68-eecbe1724708" name="Default Changelist" comment="" />
+    <list default="true" id="710b3b82-e90f-463f-be68-eecbe1724708" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Vector2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Raycasting2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Boundary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Boundary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Particle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Particle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Ray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Ray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/Raycasting2DTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Boundary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Boundary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Particle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Particle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Ray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Ray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/example/AppTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +32,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -28,6 +46,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1ZHQF7t3OgPA6MYaZVaRMrnKytl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,6 +55,7 @@
   <component name="PropertiesComponent">
     <property name="NewWatcherDialog.advanced.open" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -47,8 +67,8 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RunManager">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.App" />
+    <configuration name="Raycasting2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Raycasting2D" />
       <module name="Engine" />
       <extension name="coverage">
         <pattern>
@@ -62,7 +82,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Raycasting2D" />
       </list>
     </recent_temporary>
   </component>
@@ -85,7 +105,9 @@
       <updated>1584493436167</updated>
       <workItem from="1584493452589" duration="2079000" />
       <workItem from="1584495607470" duration="316000" />
-      <workItem from="1584495946931" duration="2457000" />
+      <workItem from="1584495946931" duration="6495000" />
+      <workItem from="1584530761134" duration="260000" />
+      <workItem from="1584531834994" duration="646000" />
     </task>
     <servers />
   </component>
@@ -93,41 +115,49 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1584494136657">
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1584502193924">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1584494136657" />
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1584502193924" />
+    <state x="715" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1584500863282">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="715" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1584500863282" />
     <state x="309" y="14" width="661" height="666" key="EditFileWatcherDialog" timestamp="1584496077340">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="309" y="14" width="661" height="666" key="EditFileWatcherDialog/0.0.1280.680@0.0.1280.680" timestamp="1584496077340" />
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1584498430450">
+    <state width="1237" height="159" key="GridCell.Tab.0.bottom" timestamp="1584532491523">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584498430450" />
-    <state width="1237" height="163" key="GridCell.Tab.0.center" timestamp="1584498430450">
+    <state width="1237" height="159" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584532491523" />
+    <state width="1237" height="159" key="GridCell.Tab.0.center" timestamp="1584532491523">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584498430450" />
-    <state width="1237" height="163" key="GridCell.Tab.0.left" timestamp="1584498430450">
+    <state width="1237" height="159" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584532491523" />
+    <state width="1237" height="159" key="GridCell.Tab.0.left" timestamp="1584532491523">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584498430450" />
-    <state width="1237" height="163" key="GridCell.Tab.0.right" timestamp="1584498430450">
+    <state width="1237" height="159" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584532491523" />
+    <state width="1237" height="159" key="GridCell.Tab.0.right" timestamp="1584532491523">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584498430450" />
+    <state width="1237" height="159" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584532491523" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1584496080354">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1584496080354" />
+    <state x="181" y="35" key="new project wizard" timestamp="1584531021944">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="181" y="35" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1584531021944" />
     <state x="328" y="186" width="705" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1584495388884">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="328" y="186" width="705" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1280.680@0.0.1280.680" timestamp="1584495388884" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1584497666696">
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1584501779022">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1584497666696" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1584501779022" />
   </component>
 </project>
